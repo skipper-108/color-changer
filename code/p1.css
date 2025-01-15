@@ -1,0 +1,29 @@
+.buttons {
+  width: 100px;
+  height: 50px;
+  margin: 10px;
+  text-align: center;
+  cursor: pointer;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+#grey {
+  background-color: grey;
+}
+
+#white {
+  background-color: white;
+}
+
+#blue {
+  background-color: blue;
+}
+
+#yellow {
+  background-color: yellow;
+}
+.canvas{
+    text-align: center;
+}
